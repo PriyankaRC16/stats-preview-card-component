@@ -6,6 +6,11 @@
     background: hsl(233, 47%, 7%);
 }
 
+.main-container {
+    display: flex;
+    align-items: flex-start;
+}
+
 .text-background {
     display: flex;
     padding: 120px 70px;
