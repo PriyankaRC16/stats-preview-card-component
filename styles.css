@@ -32,7 +32,7 @@ ul[role='list'] {
 body {
     min-height: 100vh;
     line-height: 1.5;
-    padding: 10px;
+    padding: 0.625rem;
     margin: 0;
     font-family: 'Inter', sans-serif;
     display: flex;
@@ -107,7 +107,7 @@ body {
 }
 
 footer {
-    margin-top: 20px;
+    margin-top: 1.25rem;
     color: var(--color-stats-main-heading);
     font-family: 'Inter';
     font-size: 0.875rem;
